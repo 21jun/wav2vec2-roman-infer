@@ -1,0 +1,10 @@
+{
+    "unk_token": "<unk>",
+    "bos_token": "<s>",
+    "eos_token": "</s>",
+    "pad_token": "<pad>",
+    "do_lower_case": false,
+    "word_delimiter_token": "|",
+    "model_max_length": 9223372036854775807,
+    "name_or_path": "facebook/wav2vec2-base-960h"
+}
